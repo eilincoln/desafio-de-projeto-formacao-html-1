@@ -1,6 +1,6 @@
 # Curiosidades do Sistema Solar 🌍🚀
 
-Este é um projeto para a entrega de um desafio na plataforma de estudos da [https://www.dio.me/en](DIO.me)
+Este é um projeto para a entrega de um desafio na plataforma de estudos da [DIO.me](https://www.dio.me/en)
 
 ## Tecnologias Utilizadas
 
